@@ -1,3 +1,4 @@
+const AuthService = require("../services/authServices");
 const catchAsync = require("../utils/catchAsync");
 
 class AuthController {
